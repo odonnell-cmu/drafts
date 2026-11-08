@@ -20,5 +20,643 @@
         "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/958811fafdf4e553eb5ce693e20ded40d682a873/papers/polynomial-evaluation-over-algebraically-closed-fields.pdf"
       }
     ]
+  },
+  {
+    "id": "Bonus-Lecture-RAM-Time-vs-Space-completed",
+    "title": "Simulating Time-Bounded Computation in Small Space — The RAM simulation",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "5ebd8a5af2a374c88a11acd701303e02007ebd8041979f8c0b8ee29d56650168",
+        "bytes": 278684,
+        "path": "archive/5ebd8a5af2a374c88a11acd701303e02007ebd8041979f8c0b8ee29d56650168/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/Bonus-Lecture-RAM-Time-vs-Space-completed.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Simulating Time-Bounded Computation in Small Space — The RAM simulation",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "Goldwasser_Sipser_Public_Coins",
+    "title": "How Goldwasser and Sipser Make the Verifier’s Coins Public",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "7fc10ad7c11637a47cb4f0dd7b48fd3498b61540017680f06890b9ce203b604c",
+        "bytes": 338653,
+        "path": "archive/7fc10ad7c11637a47cb4f0dd7b48fd3498b61540017680f06890b9ce203b604c/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/Goldwasser_Sipser_Public_Coins.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "How Goldwasser and Sipser Make the Verifier’s Coins Public",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "Kun_repair_theorem",
+    "title": "Kun’s Graph Repair Theorem",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "35d6e10a9d58cb9ede3d613f2b5154a045022f5fd95d6374f8127beec9681d0e",
+        "bytes": 231336,
+        "path": "archive/35d6e10a9d58cb9ede3d613f2b5154a045022f5fd95d6374f8127beec9681d0e/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/Kun_repair_theorem.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Kun’s Graph Repair Theorem",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "Quantum_Random_Access_and_QRAM_Free_TSP_Revised",
+    "title": "Quantum Random Access and a QRAM-Free Traveling Salesman Algorithm",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "173f2506d5948a243047ad5ede4448d6869225e0c0c657153c80fef4c5680fee",
+        "bytes": 260435,
+        "path": "archive/173f2506d5948a243047ad5ede4448d6869225e0c0c657153c80fef4c5680fee/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/Quantum_Random_Access_and_QRAM_Free_TSP_Revised.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Quantum Random Access and a QRAM-Free Traveling Salesman Algorithm",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "aaronsonized_pp_circuit_lower_bound",
+    "title": "Finding Hard Truth Tables by Range Avoidance and Counting — Fixed-polynomial lower bounds for PP",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "dc3b801e2381f2da0003d91f9410b8652e0b36e7ab3acaa869080900d31df6c0",
+        "bytes": 353321,
+        "path": "archive/dc3b801e2381f2da0003d91f9410b8652e0b36e7ab3acaa869080900d31df6c0/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/aaronsonized_pp_circuit_lower_bound.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Finding Hard Truth Tables by Range Avoidance and Counting — Fixed-polynomial lower bounds for PP",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "alternating_group_coset_hdx",
+    "title": "High-Dimensional Expanders from Alternating Groups",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "9d6223c8cd9be988605c5214a67c594641f128c9599eceea1d17f52fd52e53d7",
+        "bytes": 261093,
+        "path": "archive/9d6223c8cd9be988605c5214a67c594641f128c9599eceea1d17f52fd52e53d7/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/alternating_group_coset_hdx.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "High-Dimensional Expanders from Alternating Groups",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "banach_property_t_finite_averaging",
+    "title": "Three Shears Give a Family of Super-Expanders — Banach property (T) by finite averaging",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "ffbafa42f621c1a3c85300cdd11897e6788e25b99bed5e56a12c384b40d9258c",
+        "bytes": 256798,
+        "path": "archive/ffbafa42f621c1a3c85300cdd11897e6788e25b99bed5e56a12c384b40d9258c/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/banach_property_t_finite_averaging.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Three Shears Give a Family of Super-Expanders — Banach property (T) by finite averaging",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "ben_sasson_sudan_rs_pcpp",
+    "title": "Testing Reed–Solomon Proximity by Gluing Rows and Columns — The Reed–Solomon proof of proximity",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "baf182a265e275e08de64e4305c94f27d77271d5c149bf53bd6bec75966bb0b7",
+        "bytes": 308568,
+        "path": "archive/baf182a265e275e08de64e4305c94f27d77271d5c149bf53bd6bec75966bb0b7/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/ben_sasson_sudan_rs_pcpp.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Testing Reed–Solomon Proximity by Gluing Rows and Columns — The Reed–Solomon proof of proximity",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "binary_hilbert_hotel_main_rewrite_2026-08-29",
+    "title": "A Binary Hilbert Hotel and the Leavitt Nonsoficity Theorem",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "7cd3075cdd46619c5fdc46797c3e701d81d24057eb52e2b6b65337ebca548e8d",
+        "bytes": 420158,
+        "path": "archive/7cd3075cdd46619c5fdc46797c3e701d81d24057eb52e2b6b65337ebca548e8d/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/binary_hilbert_hotel_main_rewrite_2026-08-29.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "A Binary Hilbert Hotel and the Leavitt Nonsoficity Theorem",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "biregular_tower_book",
+    "title": "An Explicit Tower of Near-Ramanujan Biregular Graphs — The infinite tower",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "ba809b7cf7bb8ebecf498c89de00f543703b545f5b34ea11aa4645a9fae91d7f",
+        "bytes": 249307,
+        "path": "archive/ba809b7cf7bb8ebecf498c89de00f543703b545f5b34ea11aa4645a9fae91d7f/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/biregular_tower_book.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "An Explicit Tower of Near-Ramanujan Biregular Graphs — The infinite tower",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "depth_four_sparse_permanent_Delta",
+    "title": "Depth-Four Formulas for the Sparse Permanent",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "8e7a0d7aabf5651cbf780c642273215c9ee7b37164ba6b9458a7788a8c8137fa",
+        "bytes": 260564,
+        "path": "archive/8e7a0d7aabf5651cbf780c642273215c9ee7b37164ba6b9458a7788a8c8137fa/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/depth_four_sparse_permanent_Delta.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Depth-Four Formulas for the Sparse Permanent",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "direct_tomography_canonical_lifts",
+    "title": "Mixed-State Tomography by Canonical Purification",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "79794cc129a6d700585df2311058224898c28741f66553d3e909b5de91f67052",
+        "bytes": 358691,
+        "path": "archive/79794cc129a6d700585df2311058224898c28741f66553d3e909b5de91f67052/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/direct_tomography_canonical_lifts.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Mixed-State Tomography by Canonical Purification",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "easy_algebraic_pcp_pcpp",
+    "title": "An Elementary Algebraic PCP from the Sum-Check Protocol",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "8049cb90c9773ef8645fcfdd56e7ec050919c52b7f6688e5663acf8d746a16ad",
+        "bytes": 335644,
+        "path": "archive/8049cb90c9773ef8645fcfdd56e7ec050919c52b7f6688e5663acf8d746a16ad/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/easy_algebraic_pcp_pcpp.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "An Elementary Algebraic PCP from the Sum-Check Protocol",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "elementary_rs_gluing",
+    "title": "Testing Reed–Solomon Proximity by Gluing Rows and Columns — The robust gluing theorem",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "3396e20832d5392226e9995d6865c585e69a335f92f00ac8b17a0ea346e4247c",
+        "bytes": 239503,
+        "path": "archive/3396e20832d5392226e9995d6865c585e69a335f92f00ac8b17a0ea346e4247c/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/elementary_rs_gluing.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Testing Reed–Solomon Proximity by Gluing Rows and Columns — The robust gluing theorem",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "gilman_simplest",
+    "title": "Gilman’s Alternating Quotients via a Single 3-Cycle",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "d720986332eccd2772dd090331d029f5d050dfdc1b06f89b272d894c18c93ec9",
+        "bytes": 212603,
+        "path": "archive/d720986332eccd2772dd090331d029f5d050dfdc1b06f89b272d894c18c93ec9/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/gilman_simplest.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Gilman’s Alternating Quotients via a Single 3-Cycle",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "heart_conjecture_research_report_rewritten",
+    "title": "The Heart Conjecture for Three and Four Bits — The conjecture and low-dimensional results",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "9defbe8d5cb805a86e077dc7ded351e09d42bd6fa9e9ca949eb5834108332d13",
+        "bytes": 669922,
+        "path": "archive/9defbe8d5cb805a86e077dc7ded351e09d42bd6fa9e9ca949eb5834108332d13/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/heart_conjecture_research_report_rewritten.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "The Heart Conjecture for Three and Four Bits — The conjecture and low-dimensional results",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "kl_tail_top_walsh_fiber",
+    "title": "Total Correlation under Pure-State and Erasure Channels — The full-parity perturbation",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "55fc50f4be524f9fe08205c7c9675d6007c36d50001d1a7f31876fe652deadab",
+        "bytes": 194893,
+        "path": "archive/55fc50f4be524f9fe08205c7c9675d6007c36d50001d1a7f31876fe652deadab/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/kl_tail_top_walsh_fiber.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Total Correlation under Pure-State and Erasure Channels — The full-parity perturbation",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "kms_shadow_hlmrz_note",
+    "title": "An Explicit Tower of Near-Ramanujan Biregular Graphs — The coset-walk bound",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "e71fe1d40c4afc75010e1882797d1285ed6ee39ef2fb2c25f1daa494b82883c1",
+        "bytes": 308516,
+        "path": "archive/e71fe1d40c4afc75010e1882797d1285ed6ee39ef2fb2c25f1daa494b82883c1/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/kms_shadow_hlmrz_note.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "An Explicit Tower of Near-Ramanujan Biregular Graphs — The coset-walk bound",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "matching_nc_conceptual",
+    "title": "Bipartite Perfect Matching in Parallel via Hall’s Theorem",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "19d52fa2b913c11e4e82c3a00ce165f827d3048eed9fe1e939410f6e13c06cc2",
+        "bytes": 225870,
+        "path": "archive/19d52fa2b913c11e4e82c3a00ce165f827d3048eed9fe1e939410f6e13c06cc2/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/matching_nc_conceptual.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Bipartite Perfect Matching in Parallel via Hall’s Theorem",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "more_on_time_in_low_space_clean_composition",
+    "title": "Simulating Time-Bounded Computation in Small Space — Time–space simulations",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "b2d4ba83e42c5a44e21d75efafd18420aa2a74b73041ee13c33d9b79c5bdb620",
+        "bytes": 255070,
+        "path": "archive/b2d4ba83e42c5a44e21d75efafd18420aa2a74b73041ee13c33d9b79c5bdb620/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/more_on_time_in_low_space_clean_composition.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Simulating Time-Bounded Computation in Small Space — Time–space simulations",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "n3_plain_heart_book_proof_v4",
+    "title": "The Heart Conjecture for Three and Four Bits — The three-bit proof",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "0e6308889ef52ad36d5d566ee9947eb7705f56264fdf5548c7fdc940acd8a5e1",
+        "bytes": 254387,
+        "path": "archive/0e6308889ef52ad36d5d566ee9947eb7705f56264fdf5548c7fdc940acd8a5e1/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/n3_plain_heart_book_proof_v4.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "The Heart Conjecture for Three and Four Bits — The three-bit proof",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "n4_plain_heart_simultaneous_triple_modes_complete",
+    "title": "The Heart Conjecture for Three and Four Bits — The four-bit cubic sector",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "31ecec29fb7bdc6e8ea33219ff3fde4b895ae803b490771de1d01e3c9474517d",
+        "bytes": 234388,
+        "path": "archive/31ecec29fb7bdc6e8ea33219ff3fde4b895ae803b490771de1d01e3c9474517d/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/n4_plain_heart_simultaneous_triple_modes_complete.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "The Heart Conjecture for Three and Four Bits — The four-bit cubic sector",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "permanent_hardness_multilinearization",
+    "title": "A Multilinear Proof of the Hardness of the Permanent",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "5193178a6533453bc72684ad7efedb6145627143369a24db9df9220a9b229926",
+        "bytes": 201688,
+        "path": "archive/5193178a6533453bc72684ad7efedb6145627143369a24db9df9220a9b229926/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/permanent_hardness_multilinearization.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "A Multilinear Proof of the Hardness of the Permanent",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "permanent_uniform_tc0_acc_lower_bound",
+    "title": "Why Uniform Constant-Depth Threshold Circuits Cannot Compute the Permanent",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "73cd823a43cdb61ffdaba6cab340407ee1186062c6fd1c904e18ce0f648f1515",
+        "bytes": 187737,
+        "path": "archive/73cd823a43cdb61ffdaba6cab340407ee1186062c6fd1c904e18ce0f648f1515/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/permanent_uniform_tc0_acc_lower_bound.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Why Uniform Constant-Depth Threshold Circuits Cannot Compute the Permanent",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "range_avoidance_near_max_circuit_lower_bound",
+    "title": "Finding Hard Truth Tables by Range Avoidance and Counting — Near-maximal lower bounds by range avoidance",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "ac56303b7f08828e24b048812dfc45e58a9071f0aea5defcb70b9656dc01f5ae",
+        "bytes": 360672,
+        "path": "archive/ac56303b7f08828e24b048812dfc45e58a9071f0aea5defcb70b9656dc01f5ae/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/range_avoidance_near_max_circuit_lower_bound.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Finding Hard Truth Tables by Range Avoidance and Counting — Near-maximal lower bounds by range avoidance",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "six_tree_colors_spectral_gap",
+    "title": "Six Tree Colors and the Spectral Gap of Thompson’s Group F",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "c1f70d6db3c45f5b6505b0c31fcab52e1d784e654e45766286a5b54615e420d6",
+        "bytes": 213758,
+        "path": "archive/c1f70d6db3c45f5b6505b0c31fcab52e1d784e654e45766286a5b54615e420d6/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/six_tree_colors_spectral_gap.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Six Tree Colors and the Spectral Gap of Thompson’s Group F",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "tc_petz_local_all_alpha",
+    "title": "Total Correlation under Pure-State and Erasure Channels — The local Petz comparison",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "c88e6693b965801b3bbfc2f7ded99527a63a1c2dab5a5f32199e3e813b5d696c",
+        "bytes": 208899,
+        "path": "archive/c88e6693b965801b3bbfc2f7ded99527a63a1c2dab5a5f32199e3e813b5d696c/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/tc_petz_local_all_alpha.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Total Correlation under Pure-State and Erasure Channels — The local Petz comparison",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "theorem3_complete_proof",
+    "title": "Three Shears Give a Family of Super-Expanders — The three-move graphs",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "90e8c545fd1d994e4773876c3157fcbafffd9fd8a30aedc06a103937b412ef99",
+        "bytes": 253821,
+        "path": "archive/90e8c545fd1d994e4773876c3157fcbafffd9fd8a30aedc06a103937b412ef99/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/theorem3_complete_proof.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "Three Shears Give a Family of Super-Expanders — The three-move graphs",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
+  },
+  {
+    "id": "tuple_near_ramanujan_biregular",
+    "title": "An Explicit Tower of Near-Ramanujan Biregular Graphs — The tuple construction",
+    "authors": "",
+    "abstract": "",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-08T21:57:51Z",
+        "sha256": "667912ffa3f989a2c6321aeadcfddcb294476c904588ecdbefa69771db782178",
+        "bytes": 191398,
+        "path": "archive/667912ffa3f989a2c6321aeadcfddcb294476c904588ecdbefa69771db782178/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/9ab43052b60ae4af1c5c59321598931ecd1cd18d/papers/tuple_near_ramanujan_biregular.pdf",
+        "sourceCommit": "9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/9ab43052b60ae4af1c5c59321598931ecd1cd18d",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42527790868",
+        "title": "An Explicit Tower of Near-Ramanujan Biregular Graphs — The tuple construction",
+        "authors": "",
+        "abstract": ""
+      }
+    ]
   }
 ]
