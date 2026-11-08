@@ -7,16 +7,17 @@
     "versions": [
       {
         "number": 1,
-        "recordedAt": null,
+        "recordedAt": "2026-11-08T15:40:54Z",
         "sha256": "cd4dead13ea45c703c923f8b05102543a503c77f50ed080f0abacda7d170a439",
         "bytes": 326356,
         "path": "archive/cd4dead13ea45c703c923f8b05102543a503c77f50ed080f0abacda7d170a439/draft.pdf",
-        "sourceCommit": null,
-        "sourceUrl": null,
-        "evidenceUrl": null,
+        "sourceCommit": "958811fafdf4e553eb5ce693e20ded40d682a873",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/958811fafdf4e553eb5ce693e20ded40d682a873",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/42496032541",
         "title": "The leading constant in polynomial evaluation over algebraically closed fields",
         "authors": "",
-        "abstract": "How many nonscalar multiplications are needed to evaluate a polynomial of degree at most n, when linear combinations are free? This note gives an upper bound of √n + O(√n/log n) over every algebraically closed field, matching the leading constant in the known lower bound. The construction combines short multiplication chains, interpolation modulo pairwise coprime polynomials, and an algebraic-geometric argument."
+        "abstract": "How many nonscalar multiplications are needed to evaluate a polynomial of degree at most n, when linear combinations are free? This note gives an upper bound of √n + O(√n/log n) over every algebraically closed field, matching the leading constant in the known lower bound. The construction combines short multiplication chains, interpolation modulo pairwise coprime polynomials, and an algebraic-geometric argument.",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/958811fafdf4e553eb5ce693e20ded40d682a873/papers/polynomial-evaluation-over-algebraically-closed-fields.pdf"
       }
     ]
   }
