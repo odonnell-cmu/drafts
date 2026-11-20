@@ -1,0 +1,5 @@
+{
+  "title": "Grouped flag complexes: an elementary spectral-expansion proof",
+  "authors": "",
+  "abstract": "We give a short proof of Leake–Li’s uniform bound 2√q/(q + 1) for the local spectral expansion of complexes formed by grouping disjoint sets of ranks in a random flag over 𝔽_q. The proof uses conditional-expectation projections, a squared-Laplacian calculation, and Cauchy–Schwarz. The central observation is to retain the squares of the sums belonging to each block. This recovers Leake–Li’s improvement to the spectral estimate of Hopkins–Ray, independently of the ambient dimension and block sizes."
+}
