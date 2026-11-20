@@ -658,5 +658,27 @@
         "abstract": ""
       }
     ]
+  },
+  {
+    "id": "grouped_flag_complexes",
+    "title": "Grouped flag complexes: an elementary spectral-expansion proof",
+    "authors": "",
+    "abstract": "We give a short proof of Leake–Li’s uniform bound 2√q/(q + 1) for the local spectral expansion of complexes formed by grouping disjoint sets of ranks in a random flag over 𝔽_q. The proof uses conditional-expectation projections, a squared-Laplacian calculation, and Cauchy–Schwarz. The central observation is to retain the squares of the sums belonging to each block. This recovers Leake–Li’s improvement to the spectral estimate of Hopkins–Ray, independently of the ambient dimension and block sizes.",
+    "versions": [
+      {
+        "number": 1,
+        "recordedAt": "2026-11-20T00:21:29Z",
+        "sha256": "92c4902bc365db70b5aaab5e1ed77c98742abce9b12598cbde49904e448e80fa",
+        "bytes": 332070,
+        "path": "archive/92c4902bc365db70b5aaab5e1ed77c98742abce9b12598cbde49904e448e80fa/draft.pdf",
+        "pdfUrl": "https://github.com/odonnell-cmu/drafts/blob/487cae84187f58224f01dfb0a7c3e30ea68fa062/papers/grouped_flag_complexes.pdf",
+        "sourceCommit": "487cae84187f58224f01dfb0a7c3e30ea68fa062",
+        "sourceUrl": "https://github.com/odonnell-cmu/drafts/commit/487cae84187f58224f01dfb0a7c3e30ea68fa062",
+        "evidenceUrl": "https://github.com/odonnell-cmu/drafts/actions/runs/44645209738",
+        "title": "Grouped flag complexes: an elementary spectral-expansion proof",
+        "authors": "",
+        "abstract": "We give a short proof of Leake–Li’s uniform bound 2√q/(q + 1) for the local spectral expansion of complexes formed by grouping disjoint sets of ranks in a random flag over 𝔽_q. The proof uses conditional-expectation projections, a squared-Laplacian calculation, and Cauchy–Schwarz. The central observation is to retain the squares of the sums belonging to each block. This recovers Leake–Li’s improvement to the spectral estimate of Hopkins–Ray, independently of the ambient dimension and block sizes."
+      }
+    ]
   }
 ]
