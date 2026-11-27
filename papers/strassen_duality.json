@@ -1,0 +1,5 @@
+{
+  "title": "A proof of Strassen’s duality theorem",
+  "authors": "",
+  "abstract": "The main idea is to turn submultiplicative complexity measures into multiplicative ones. Two operations suffice: regularization by taking powers, and regularization by adjoining extra factors. Once we have a multiplicative measure, a binomial expansion will give us additivity. This yields a short proof of Strassen’s theorem in the semiring setting of Wigderson–Zuiddam. The argument is based on the upper-functional proof in Appendix A of Claude (Anthropic), “VP ≠ VNP over every field.”"
+}
